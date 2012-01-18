@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TextDialerActivity!</string>
+    <string name="app_name">TextDialer</string>
+    <string name="string_chiama">Chiama!</string>
+    <string name="string_chiama_dir">Chiama direttamente!</string>
+
+</resources>
